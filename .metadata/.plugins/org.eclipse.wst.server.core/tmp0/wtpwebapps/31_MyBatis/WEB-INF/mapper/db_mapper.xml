@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3-0//EN"
+						"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="test_db">
+	<!-- parameterType : 쿼리문 안에 대입할 값을 가지고 있을 bean의 클래스 타입 -->
+	<insert id="insert_data" parameterType="com.test.beans.DataBean">
+		insert into spring_mvc_table (data1, data2, data3)
+		values (#{data1}, #{data2}, #{data3})
+	</insert>
+	
+	<!-- resultType : 로우 하나의 데이터를 담을 bean의 클래스 타입 -->
+	<select id="select_data" resultType="com.test.beans.DataBean">
+		select data1, data2, data3 from spring_mvc_table
+	</select>
+	
+	<update id="update_data" parameterType="com.test.beans.DataBean">
+		update spring_mvc_table set data2 = #{data2}
+		where data1 = #{data1}
+	</update>
+	
+	<delete id="delete_data" parameterType="java.lang.String">
+		delete from spring_mvc_table
+		where data1 = #{abc}
+	</delete>
+</mapper>

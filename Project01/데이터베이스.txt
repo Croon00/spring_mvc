@@ -1,0 +1,72 @@
+-- 시퀀스 삭제
+drop sequence user_seq;
+drop sequence content_seq;
+
+-- 사용자 테이블 시퀀스 생성
+create sequence user_seq
+start with 1
+increment by 1
+minvalue 1;
+
+-- 게시글 테이블 시퀀스 생성
+create sequence content_seq
+start with 1
+increment by 1
+minvalue 1;
+
+-- 테이블 삭제
+drop table content_table;
+drop table board_table;
+drop table user_table;
+
+-- 사용자 테이블
+create table user_table(
+	user_idx number constraint user_pk primary key,
+	user_id varchar(500) not null constraint user_uq unique,
+	user_pw varchar(500) not null,
+	user_name char(12) not null,
+	user_postal_code char(5) not null,
+	user_addr1 varchar(500) not null,
+	user_addr2 varchar(500) not null
+	);
+	
+-- 테스트 코드
+insert into user_table
+(user_idx, user_id, user_pw, user_name, user_postal, user_addr1, user_addr2)
+values(1, 'abcd', '1234', '네글자임', '12345', '주소1', '주소2');
+
+-- 게시판 테이블
+create table board_table(
+	board_idx number constraint board_pk primary key,
+	board_name varchar2(500) not null constraint board_uq unique);
+	
+-- 초기 데이터
+insert into board_table (board_idx, board_name) values(1, '자유게시판');
+insert into board_table (board_idx, board_name) values(2, '유머게시판');
+insert into board_table (board_idx, board_name) values(3, '정치게시판');
+insert into board_table (board_idx, board_name) values(4, '스포츠게시판');
+
+
+-- 게시글 테이블
+create table content_table(
+	content_idx number constraint context_pk primary key,
+	content_subject varchar2(500) not null,
+	content_date date not null,
+	content_board_idx number constraint content_fk1
+					  references board_table(board_idx),
+	content_writer_idx number constraint content_fk2
+					  references board_table(user_idx),
+	content_file varchar2(500))
+	content_text long not null);
+	
+-- 테스트 데이터
+insert into content_table
+(content_idx, content_subject, content_date, content_board_idx, content_writer_idx, content_file)
+values (1, '제목1', sysdate, 1, 1, '없음');
+
+-- 테스트용 데이터 삭제
+delete from content_table;
+delete from user_table;
+
+-- commit
+commit;

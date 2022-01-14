@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Project_01/src/main/webapp/WEB-INF/views/video/viedo_board_modify.jsp&apos; to &apos;video_board_modify.jsp&apos;" description="Rename resource &apos;viedo_board_modify.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/views/video/viedo_board_modify.jsp" name="video_board_modify.jsp" stamp="1630653611510" updateReferences="true"/>
+</session>

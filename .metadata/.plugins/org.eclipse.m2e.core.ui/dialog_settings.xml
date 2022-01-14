@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="Project_01"/>
+			<item value="Project02"/>
+			<item value="BaseProject"/>
+			<item value="exex"/>
+			<item value="MyProject01"/>
+			<item value="33_MiniProjectSpring"/>
+			<item value="31_MyBatis"/>
+			<item value="30_Interceptor"/>
+			<item value="29_CustomValidator"/>
+			<item value="28_JSR-380"/>
+			<item value="27_JSR-303"/>
+			<item value="26_CustomErrorMessage"/>
+			<item value="25_ValidationForm"/>
+			<item value="24_Validation"/>
+			<item value="23_MessageJava"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="Project_01"/>
+			<item value="Project02"/>
+			<item value="BaseProject"/>
+			<item value="exex"/>
+			<item value="MyProject01"/>
+			<item value="33_MiniProjectSpring"/>
+			<item value="31_MyBatis"/>
+			<item value="30_Interceptor"/>
+			<item value="29_CustomValidator"/>
+			<item value="28_JSR-380"/>
+			<item value="27_JSR-303"/>
+			<item value="26_CustomErrorMessage"/>
+			<item value="25_ValidationForm"/>
+			<item value="24_Validation"/>
+			<item value="23_MessageJava"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

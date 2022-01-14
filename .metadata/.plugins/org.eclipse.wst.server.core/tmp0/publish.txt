@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Fri Jan 14 16:27:39 KST 2022
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\smhyun\\.m2\\repository\\org\\springframework\\spring-web\\5.3.9\\spring-web-5.3.9.jar=WEB-INF/lib/spring-web-5.3.9.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\LG\\.m2\\repository\\org\\springframework\\spring-web\\5.3.9\\spring-web-5.3.9.jar=WEB-INF/lib/spring-web-5.3.9.jar

@@ -1,0 +1,96 @@
+
+8월 11, 2021 09:21:37.750 NEW SESSION
+8월 11, 2021 09:21:37.750 [1504:4180:0811/092137.745:ERROR:device_event_log_impl.cc(214)] [09:21:37.746] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+8월 11, 2021 12:56:49.454 [1504:4180:0811/125649.446:ERROR:device_event_log_impl.cc(214)] [12:56:49.446] USB: usb_service_win.cc:258 Failed to get device driver name: 요소가 없습니다. (0x490)
+8월 11, 2021 16:02:35.165 [1504:7000:0811/160235.156:ERROR:gpu_process_host.cc(995)] GPU process exited unexpectedly: exit_code=34
+
+8월 13, 2021 09:21:24.736 NEW SESSION
+8월 13, 2021 09:21:24.736 [3084:2032:0813/092124.733:ERROR:device_event_log_impl.cc(214)] [09:21:24.734] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+8월 13, 2021 09:21:24.738 [3084:2032:0813/092124.735:ERROR:device_event_log_impl.cc(214)] [09:21:24.736] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+
+8월 30, 2021 09:06:27.06 NEW SESSION
+8월 30, 2021 09:06:27.06 [6292:10712:0830/090627.004:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by server).
+8월 30, 2021 09:06:29.431 [6292:10712:0830/090629.430:ERROR:device_event_log_impl.cc(214)] [09:06:29.429] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+8월 30, 2021 09:10:40.351 [6292:10712:0830/091040.349:ERROR:device_event_log_impl.cc(214)] [09:10:40.348] USB: usb_service_win.cc:258 Failed to get device driver name: 요소가 없습니다. (0x490)
+
+9월 02, 2021 09:13:54.576 NEW SESSION
+9월 02, 2021 09:13:54.577 [3896:4460:0902/091354.572:ERROR:device_event_log_impl.cc(214)] [09:13:54.573] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+9월 02, 2021 13:02:09.260 [3896:4460:0902/130209.248:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.31 s for first_image_paint 1.244 s
+9월 02, 2021 13:02:10.719 [3896:4460:0902/130210.719:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.31 s for first_image_paint 1.244 s
+9월 02, 2021 13:02:13.627 [3896:4460:0902/130213.626:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.31 s for first_image_paint 1.244 s
+9월 02, 2021 13:02:13.696 [3896:4460:0902/130213.695:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.31 s for first_image_paint 1.244 s
+9월 02, 2021 15:18:29.113 [3896:4460:0902/151829.097:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.069 s for first_image_paint 1.032 s
+9월 02, 2021 15:18:30.556 [3896:4460:0902/151830.556:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.069 s for first_image_paint 1.032 s
+9월 02, 2021 15:18:30.808 [3896:4460:0902/151830.808:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.069 s for first_image_paint 1.032 s
+9월 02, 2021 15:18:32.319 [3896:4460:0902/151832.318:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.069 s for first_image_paint 1.032 s
+9월 02, 2021 15:26:41.481 [3896:4460:0902/152641.477:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 2.518 s for first_image_paint 2.476 s
+9월 02, 2021 15:26:42.486 [3896:4460:0902/152642.486:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 2.518 s for first_image_paint 2.476 s
+9월 02, 2021 15:26:43.864 [3896:4460:0902/152643.864:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 2.518 s for first_image_paint 2.476 s
+9월 02, 2021 15:26:45.437 [3896:4460:0902/152645.436:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 2.518 s for first_image_paint 2.476 s
+9월 02, 2021 15:40:23.227 [3896:4460:0902/154023.224:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.98 s for first_image_paint 1.919 s
+9월 02, 2021 15:40:24.758 [3896:4460:0902/154024.758:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.98 s for first_image_paint 1.919 s
+9월 02, 2021 15:40:24.904 [3896:4460:0902/154024.903:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.98 s for first_image_paint 1.919 s
+9월 02, 2021 15:40:24.981 [3896:4460:0902/154024.981:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.98 s for first_image_paint 1.919 s
+9월 02, 2021 15:44:10.339 [3896:4460:0902/154410.335:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.758 s for first_image_paint 1.696 s
+9월 02, 2021 15:44:11.374 [3896:4460:0902/154411.374:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.758 s for first_image_paint 1.696 s
+9월 02, 2021 15:44:16.527 [3896:4460:0902/154416.527:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.758 s for first_image_paint 1.696 s
+9월 02, 2021 15:44:16.624 [3896:4460:0902/154416.623:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.758 s for first_image_paint 1.696 s
+9월 02, 2021 16:01:48.741 [3896:4460:0902/160148.738:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.208 s for first_image_paint 1.127 s
+9월 02, 2021 16:01:50.225 [3896:4460:0902/160150.225:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.208 s for first_image_paint 1.127 s
+9월 02, 2021 16:01:51.342 [3896:4460:0902/160151.342:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.208 s for first_image_paint 1.127 s
+9월 02, 2021 16:01:51.518 [3896:4460:0902/160151.517:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.208 s for first_image_paint 1.127 s
+9월 02, 2021 16:36:20.922 [3896:4460:0902/163620.918:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 2.358 s for first_image_paint 2.264 s
+9월 02, 2021 16:36:22.587 [3896:4460:0902/163622.586:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 2.358 s for first_image_paint 2.264 s
+9월 02, 2021 16:36:24.248 [3896:4460:0902/163624.248:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 2.358 s for first_image_paint 2.264 s
+9월 02, 2021 16:36:25.949 [3896:4460:0902/163625.949:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 2.358 s for first_image_paint 2.264 s
+9월 02, 2021 16:36:29.950 [3896:4460:0902/163629.949:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 2.358 s for first_image_paint 2.264 s
+9월 02, 2021 16:36:30.162 [3896:4460:0902/163630.162:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 2.358 s for first_image_paint 2.264 s
+9월 02, 2021 16:38:50.250 [3896:4460:0902/163850.249:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 2.281 s for first_image_paint 2.232 s
+9월 02, 2021 16:38:51.758 [3896:4460:0902/163851.755:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 2.281 s for first_image_paint 2.232 s
+9월 02, 2021 16:38:52.36 [3896:4460:0902/163852.036:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 2.281 s for first_image_paint 2.232 s
+9월 02, 2021 16:38:52.135 [3896:4460:0902/163852.134:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 2.281 s for first_image_paint 2.232 s
+9월 02, 2021 16:40:45.311 [3896:4460:0902/164045.310:ERROR:device_event_log_impl.cc(214)] [16:40:45.310] USB: usb_service_win.cc:258 Failed to get device driver name: 요소가 없습니다. (0x490)
+9월 02, 2021 16:47:33.737 [3896:4460:0902/164733.734:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 2.111 s for first_image_paint 2.014 s
+9월 02, 2021 16:47:35.185 [3896:4460:0902/164735.185:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 2.111 s for first_image_paint 2.014 s
+9월 02, 2021 16:47:35.703 [3896:4460:0902/164735.703:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 2.111 s for first_image_paint 2.014 s
+9월 02, 2021 16:47:36.871 [3896:4460:0902/164736.870:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 2.111 s for first_image_paint 2.014 s
+9월 02, 2021 16:55:37.507 [3896:4460:0902/165537.505:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.953 s for first_image_paint 1.871 s
+9월 02, 2021 16:55:39.28 [3896:4460:0902/165539.028:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.953 s for first_image_paint 1.871 s
+9월 02, 2021 16:55:39.41 [3896:4460:0902/165539.040:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.953 s for first_image_paint 1.871 s
+9월 02, 2021 16:55:39.125 [3896:4460:0902/165539.124:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.953 s for first_image_paint 1.871 s
+9월 02, 2021 17:06:58.774 [3896:4460:0902/170658.771:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.932 s for first_image_paint 1.866 s
+9월 02, 2021 17:07:00.461 [3896:4460:0902/170700.461:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.932 s for first_image_paint 1.866 s
+9월 02, 2021 17:07:00.576 [3896:4460:0902/170700.576:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.932 s for first_image_paint 1.866 s
+9월 02, 2021 17:07:00.661 [3896:4460:0902/170700.661:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.932 s for first_image_paint 1.866 s
+9월 02, 2021 17:12:07.400 [3896:4460:0902/171207.398:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.637 s for first_image_paint 1.587 s
+9월 02, 2021 17:12:08.892 [3896:4460:0902/171208.892:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.637 s for first_image_paint 1.587 s
+9월 02, 2021 17:12:10.652 [3896:4460:0902/171210.652:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.637 s for first_image_paint 1.587 s
+9월 02, 2021 17:12:10.956 [3896:4460:0902/171210.955:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.637 s for first_image_paint 1.587 s
+9월 02, 2021 17:12:11.37 [3896:4460:0902/171211.037:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.637 s for first_image_paint 1.587 s
+9월 02, 2021 17:15:58.596 [3896:4460:0902/171558.594:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.8 s for first_image_paint 1.766 s
+9월 02, 2021 17:15:59.624 [3896:4460:0902/171559.624:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.8 s for first_image_paint 1.766 s
+9월 02, 2021 17:16:31.843 [3896:4460:0902/171631.843:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.8 s for first_image_paint 1.766 s
+9월 02, 2021 17:16:37.884 [3896:4460:0902/171637.884:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.8 s for first_image_paint 1.766 s
+9월 02, 2021 17:16:37.947 [3896:4460:0902/171637.946:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 1.8 s for first_image_paint 1.766 s
+
+9월 03, 2021 17:26:35.568 NEW SESSION
+9월 03, 2021 17:26:35.569 [13912:12984:0903/172635.519:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 2.511 s for first_image_paint 2.365 s
+9월 03, 2021 17:26:36.932 [13912:12984:0903/172636.931:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 2.511 s for first_image_paint 2.365 s
+9월 03, 2021 17:26:38.220 [13912:12984:0903/172638.220:ERROR:device_event_log_impl.cc(214)] [17:26:38.220] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+9월 03, 2021 17:26:39.151 [13912:12984:0903/172639.150:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 2.511 s for first_image_paint 2.365 s
+9월 03, 2021 17:26:39.562 [13912:12984:0903/172639.561:ERROR:page_load_metrics_update_dispatcher.cc(170)] Invalid first_paint 2.511 s for first_image_paint 2.365 s
+
+9월 27, 2021 08:58:47.765 NEW SESSION
+9월 27, 2021 08:58:47.766 [13248:15256:0927/085847.763:ERROR:device_event_log_impl.cc(214)] [08:58:47.763] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+9월 27, 2021 08:58:47.766 [13248:15256:0927/085847.764:ERROR:device_event_log_impl.cc(214)] [08:58:47.764] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+9월 27, 2021 09:22:22.817 [13248:15256:0927/092222.812:ERROR:device_event_log_impl.cc(214)] [09:22:22.812] USB: usb_service_win.cc:258 Failed to get device driver name: 요소가 없습니다. (0x490)
+9월 27, 2021 15:08:02.513 [13248:15256:0927/150802.481:ERROR:print_preview_handler.cc(868)] Initiated PrintPreviewHandler::HandleGetInitialSettings()
+9월 27, 2021 15:08:02.575 [13248:15256:0927/150802.574:ERROR:print_preview_handler.cc(557)] Initiated PrintPreviewHandler::HandleGetPrinters()
+9월 27, 2021 15:08:02.640 [13248:15256:0927/150802.639:ERROR:print_preview_handler.cc(590)] Initiated PrintPreviewHandler::HandleGetPrinterCapabilities()
+9월 27, 2021 15:08:02.718 [13248:15256:0927/150802.718:ERROR:print_preview_handler.cc(622)] Initiated PrintPreviewHandler::HandleGetPreview()
+9월 27, 2021 15:08:05.647 [13248:15256:0927/150805.646:ERROR:print_preview_handler.cc(590)] Initiated PrintPreviewHandler::HandleGetPrinterCapabilities()
+9월 27, 2021 15:08:05.660 [13248:15256:0927/150805.658:ERROR:print_preview_handler.cc(622)] Initiated PrintPreviewHandler::HandleGetPreview()
+
+9월 27, 2021 15:42:12.769 NEW SESSION
+9월 27, 2021 15:42:12.769 [10200:2224:0927/154212.765:ERROR:device_event_log_impl.cc(214)] [15:42:12.765] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+9월 27, 2021 15:42:12.770 [10200:2224:0927/154212.767:ERROR:device_event_log_impl.cc(214)] [15:42:12.767] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
